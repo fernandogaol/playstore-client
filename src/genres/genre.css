@@ -1,0 +1,14 @@
+.apps {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 1%,
+    rgba(9, 51, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 90%
+  );
+  padding: 10px;
+  width: 70%;
+  margin: 15px auto;
+  color: rgb(219, 254, 255);
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.7rem;
+}
